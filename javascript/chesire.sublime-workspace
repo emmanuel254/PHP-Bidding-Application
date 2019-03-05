@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"embed\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title> Chesire's Boutique</title>\n  <link rel=\"stylesheet\"  href=\"css/bootstrap.min.css\"> \n  \t<link rel=\"stylesheet\" type=\"text/css\" href=\"main.css\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\">\n\n  <script src=\"js/bootstrap.min.js\"></script> \n\n</head>\n<body>\n\t<nav class=\"navbar navbar-default navbar-fixed-top\">\n\t\t\n\t<div class=\"container\">\n      <a href=\"index.php\" class=\"navbar-brand\">Chesire's Boutique</a>\n\t\t<ul class=\"nav navbar-nav\">\n\t\t\t<li class=\"dropdown\">\n\t\t\t\t<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\">Men<span class=\"caret\"></span></a>\n                <ul class=\"dropdown-menu\" role=\"menu\">\n                \t<li><a href=\"#\">Shirts</a></li>\n                \t<li><a href=\"#\">Pants</a></li>\n                \t<li><a href=\"#\">Shoes</a></li>\n                \t<li><a href=\"#\">Accessories</a></li>\n                </ul>\n\t\t\t</li>\n\t\t</ul>\n\t\t\n\t</div>\n\t</nav>\n\n<div id = \"headerWrapper\">\n\t<div id = \"back-flower\">\n\t<div id = \"Logotext\">\n\t<div id = \"for-flower\">\n\t\t\n\t</div>\n\t\t\n\t</div>\n\t\t\n\t</div>\n</div>\n<p>\n\tINTRODUCTION\nThis course provides the student with an introduction to the basic elements of modern\nmicroeconomics. The course provides coverage of the institutional background and the\nhistory of significant microeconomic ideas and issues in Kenya and around the world. It\nwill develop an understanding of how microeconomics relates to practical life. Students\nare expected to apply the knowledge in other economics units. The study employs\nextensive use of diagrams and mathematical expressions in the illustration of concepts.\nOn successful completion of this unit, students should be able to:\n1. Demonstrate understanding of the fundamental methodology and principles of\nMicroeconomic theory and practice;\n2. Comprehend and critically appraise economic decisions made by governments,\nBusinesses and households;\n3. Use a range of skills to access, interpret and apply economic information in real\nworld situations\n4. Use and apply mathematical skills as appropriate – data analysis, graphs; etc;\n5. Have a basis for further undergraduate study in economics and business\n1: Introduction\n· Meaning of economics\n· Scarcity and choice\n· The concept of opportunity cost\n· Scope of economics\n· Economic methodology\n· Distinction between microeconomics and macroeconomics\nTopic 2: The price theory\n· Theory of demand\n· Theory of supply\n· The concept of equilibrium\n· Application of price theory\nTopic 3: Theory of the consumer\n· The cardinal utility theory\n· The ordinal/indifference curve theory\n· Substitution and income effects\n· Revealed preference hypothesis\n· The consumer surplus\n· Derivation of a household’s demand curve\nTopic 4: Theory of the firm\n· Theory of production\n· Theory of costs\nTopic 5: Market structures\n· Perfect/pure competition\n· Monopoly\n· Monopolistic competition\n· Oligopoly\n2\nTHE MEANING OF ECONOMICS.\nEconomics is a social science that has been in existence for about two centuries. Various\neconomists have tried to define it differently. Three types of definition can be identified.\na) Wealth definition\nb) Welfare definition\nc) Scarcity definition\na) Wealth definition\nAdam smith and his disciples J.B. Say, Walker, J.S. Mill defined economics as an\ninquiry into\n</p>\n\n\n</body>\n</html>",
+			"file": "index.php",
+			"file_size": 3566,
+			"file_write_time": 131634127831070737,
+			"settings":
+			{
+				"buffer_size": 3310,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "trial.html",
+			"settings":
+			{
+				"buffer_size": 531,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 554,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mynew/Desktop/exercise/css/stylo.css",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mynew/Desktop/exercise/css/chesire.html",
+			"settings":
+			{
+				"buffer_size": 6030,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/boutique/main",
+		"/C/Users/mynew/Desktop/exercise/test.php",
+		"/C/wamp/www/test1.php",
+		"/C/wamp/www/variables.php",
+		"/C/Users/mynew/Desktop/exercise/css/javascript.js",
+		"/C/Users/mynew/Desktop/exercise/css/multiplication table.php",
+		"/C/wamp/www/phpandmysql.php",
+		"/C/wamp/www/welcome_get.php",
+		"/E/Blur/Blur.exe",
+		"/C/Users/mynew/Desktop/exercise/assignments/hello.py",
+		"/C/Users/mynew/Desktop/exercise/css/jckfugh.html",
+		"/C/Users/mynew/Desktop/exercise/css/emmanuel.html",
+		"/C/Users/mynew/Desktop/exercise/css/chess.html",
+		"/C/Users/mynew/Desktop/exercise/css/chesire.html",
+		"/C/Users/mynew/Documents/FB_IMG_15162759391463287.jpg",
+		"/C/Users/mynew/Desktop/exercise/stylo.css",
+		"/C/Users/mynew/Desktop/exercise/chess.html",
+		"/C/Users/mynew/Desktop/exercise/chesire.html",
+		"/C/Users/mynew/Desktop/exercise/stylo_GET.php",
+		"/C/Users/mynew/Desktop/exercise/stylo.php",
+		"/C/Users/mynew/AppData/Local/Microsoft/Windows/INetCache/IE/ZKJE99B9/ToolHero[1].apk",
+		"/C/Users/mynew/Desktop/exercise/chesire.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3293,
+								3293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 920.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "trial.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 257.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/mynew/Desktop/exercise/css/stylo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/mynew/Desktop/exercise/css/chesire.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chesire.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"C:\\wamp\\www\\boutique\\main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
